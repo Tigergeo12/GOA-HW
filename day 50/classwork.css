@@ -1,0 +1,20 @@
+#sign{
+    background-color: aquamarine; 
+    color: black;
+    width: 100px;
+    height: 30px;
+    transition: width 1s, height 1s, transform 1s; 
+      
+}
+
+#sign:hover {
+    background-color: blueviolet;
+    color: beige;
+    width: 120px;
+    height: 40px;
+    
+}
+
+
+
+

@@ -1,0 +1,28 @@
+#sign{
+    background-color: aquamarine; 
+    color: black;
+    width: 100px;
+    height: 30px;
+    
+    animation-name: classwork;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes classwork{
+    0% {color: black;
+        background-color: aquamarine; height: 30px; width: 100; }
+    20% {color: blanchedalmond;
+        background-color: brown; height: 35px; width: 120;}
+    40% {color: lightsalmon;
+         background-color: darkgreen; height: 25px; width: 90;}
+    60% {color: indigo;
+         background-color: teal; height: 30px; width: 100;}
+    80% {color: limegreen;
+         background-color: darkblue; height: 35px; width: 120;}
+}
+
+
+
+
