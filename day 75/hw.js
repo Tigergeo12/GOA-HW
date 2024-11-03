@@ -89,5 +89,3 @@ class RussianBlu extends Cat{
         console.log(this.eyecolor)
     }
 }
-const myRussianBlu = new RussianBlu("fluffy", 2, "grey-white", "yellow");
-myRussianBlu.displayRussianBlu();
