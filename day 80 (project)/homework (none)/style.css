@@ -1,0 +1,13 @@
+.item {
+  background-color: #e573e5;
+  height: 100px;
+  margin: 2px;
+}
+
+.stack-vertical {
+  display: flex;
+  flex-direction: column;
+}
+.stack-vertical .item {
+  flex: 1 1 100%;
+}
